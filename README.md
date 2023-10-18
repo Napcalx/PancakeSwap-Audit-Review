@@ -1,4 +1,3 @@
-
 Smart Contract Review
 
 Task: PancakeSwap IFOPool.sol Repo
