@@ -6,6 +6,7 @@ Task: PancakeSwap IFOPool.sol Repo
 Introduction: The Pancakeswap IFO Pool is a decentralized application (Dapp) built on the Binance Smart Chain that allows users to stake their Cake Tokens in the Syrup pool to get ICake tokens that enables them to participate in the Initial Farm Offering of Newly launched Project tokens on the PancakeSwap Dex.
 
 Contract
+
 pragma solidity 0.6.12;
 The Compiler version used to compile the contract by the EVM Compiler.
 
